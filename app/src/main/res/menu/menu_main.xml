@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.DI_ProyectoJSON.MainActivity">
+    <group android:id="@+id/ginsertar">
+        <item
+            android:id="@+id/insertar"
+            android:orderInCategory="100"
+            android:title="@string/insertar"
+            app:showAsAction="never" />
+    </group>
+    <group android:id="@+id/grecargar">
+        <item
+            android:id="@+id/recargar"
+            android:title="@string/recargar" />
+    </group>
+    <group android:id="@+id/geliminar" >
+        <item
+            android:id="@+id/eliminar"
+            android:title="@string/eliminar" />
+    </group>
+</menu>

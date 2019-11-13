@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Películas</string>
+    <string name="pelicula_titulo_id">Título de la película</string>
+    <string name="txttitulo">Título de la película</string>
+    <string name="txtCategoria">Categoría</string>
+    <string name="txtDescripcion">Descripción</string>
+    <string name="insertar">Añadir película</string>
+    <string name="recargar">Recargar películas</string>
+    <string name="PtituloPelicula">Título:</string>
+    <string name="PcategoriaPelicula">Categoría:</string>
+    <string name="PdescripcionPelicula">Descripción:</string>
+    <string name="PminiaturaPelicula">URL Miniatura:</string>
+    <string name="btInsertar">Añadir</string>
+    <string name="tftitulo"></string>
+    <string name="tfcategoria"></string>
+    <string name="tfdescripcion"></string>
+    <string name="tfminiatura"></string>
+    <string name="btEliminar">Eliminar</string>
+    <string name="eliminar">Eliminar películas</string>
+</resources>
